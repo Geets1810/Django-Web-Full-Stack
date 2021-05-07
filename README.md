@@ -1,5 +1,20 @@
 # Django-Web-Full-Stack
 
-A step by step evaluation of course https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp 
-The Course covers basics of HTML,CSS,Bootstrap,Django,Python,Jquery,Javascript that would help us to build website from scratch. 
-It is a record of the progress I make throughout and write about my learnings here.
+Here is just a small sampling of the topics included in this course:
+
+HTML5
+CSS3
+Javascript
+jQuery
+Bootstrap 3 and 4
+Document Object Model
+Python
+Django Basics
+Django Templates
+Django Forms
+Django Admin Customization
+ORM
+Class Based Views
+REST APIs
+User Authentication
+and much,much more!
